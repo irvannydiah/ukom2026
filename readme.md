@@ -71,7 +71,7 @@
 
 | Data Buku (Admin) | Data Kategori (Admin) |
 |---|---|
-| ![Data Buku](perpustakaan/docs/admin_buku.png) | ![Data Kategori](docs/admin_kategori.png) |
+| ![Data Buku](perpustakaan/docs/admin_buku.png) | ![Data Kategori](perpustakaan/docs/admin_kategori.png) |
 
 | Data Anggota (Admin) | Kelola Peminjaman (Admin) |
 |---|---|
