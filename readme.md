@@ -85,9 +85,6 @@
 |---|---|
 | ![Detail Buku](perpustakaan/docs/user_buku_detail.png) | ![Peminjaman Saya](perpustakaan/docs/user_peminjaman.png) |
 
-> 📸 Simpan tangkapan layar aplikasi kamu ke folder `docs/` dengan nama file seperti di atas, agar gambar otomatis tampil di README ini.
-
----
 
 ## 🛠️ Tech Stack
 
