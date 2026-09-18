@@ -67,7 +67,7 @@
 
 | Halaman Login | Dashboard Admin |
 |---|---|
-| ![Login](perpustakaan/docs/login.png) | ![Dashboard Admin](perpustakaan/docs/dashboard_admin.png) |
+| ![Login](perpustakaan/docs/login.png) | ![Dashboard Admin](perpustakaan/docs/dashboardadmin.png) |
 
 | Data Buku (Admin) | Data Kategori (Admin) |
 |---|---|
