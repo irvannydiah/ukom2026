@@ -75,15 +75,15 @@
 
 | Data Anggota (Admin) | Kelola Peminjaman (Admin) |
 |---|---|
-| ![Data Anggota](docs/admin_anggota.png) | ![Kelola Peminjaman](docs/admin_peminjaman.png) |
+| ![Data Anggota](perpustakaan/docs/admin_anggota.png) | ![Kelola Peminjaman](perpustakaan/docs/admin_peminjaman.png) |
 
 | Dashboard Anggota | Cari Buku (Anggota) |
 |---|---|
-| ![Dashboard Anggota](docs/dashboard_user.png) | ![Cari Buku](docs/user_buku.png) |
+| ![Dashboard Anggota](perpustakaan/docs/dashboard_user.png) | ![Cari Buku](perpustakaan/docs/user_buku.png) |
 
 | Detail Buku & Ajukan Pinjam | Peminjaman Saya (Anggota) |
 |---|---|
-| ![Detail Buku](docs/user_buku_detail.png) | ![Peminjaman Saya](docs/user_peminjaman.png) |
+| ![Detail Buku](perpustakaan/docs/user_buku_detail.png) | ![Peminjaman Saya](perpustakaan/docs/user_peminjaman.png) |
 
 > 📸 Simpan tangkapan layar aplikasi kamu ke folder `docs/` dengan nama file seperti di atas, agar gambar otomatis tampil di README ini.
 
