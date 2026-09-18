@@ -63,6 +63,32 @@
 
 ---
 
+## 🖥️ Screenshot
+
+| Halaman Login | Dashboard Admin |
+|---|---|
+| ![Login](docs/login.png) | ![Dashboard Admin](docs/dashboard_admin.png) |
+
+| Data Buku (Admin) | Data Kategori (Admin) |
+|---|---|
+| ![Data Buku](docs/admin_buku.png) | ![Data Kategori](docs/admin_kategori.png) |
+
+| Data Anggota (Admin) | Kelola Peminjaman (Admin) |
+|---|---|
+| ![Data Anggota](docs/admin_anggota.png) | ![Kelola Peminjaman](docs/admin_peminjaman.png) |
+
+| Dashboard Anggota | Cari Buku (Anggota) |
+|---|---|
+| ![Dashboard Anggota](docs/dashboard_user.png) | ![Cari Buku](docs/user_buku.png) |
+
+| Detail Buku & Ajukan Pinjam | Peminjaman Saya (Anggota) |
+|---|---|
+| ![Detail Buku](docs/user_buku_detail.png) | ![Peminjaman Saya](docs/user_peminjaman.png) |
+
+> 📸 Simpan tangkapan layar aplikasi kamu ke folder `docs/` dengan nama file seperti di atas, agar gambar otomatis tampil di README ini.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Teknologi | Kegunaan |
